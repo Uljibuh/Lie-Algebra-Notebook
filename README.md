@@ -3,4 +3,5 @@
 
 # P1 Notebook
 **Step 1: Lie Group Axioms: step-by-step Calculations**
+
 **Step 2: Matrix SO(2) vs Complex Number U(1) — Side by Side**
